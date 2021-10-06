@@ -1,0 +1,1 @@
+export const LAIS_TEIXEIRA = "Lais Teixeira";
